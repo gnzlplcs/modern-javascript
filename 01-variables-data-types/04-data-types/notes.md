@@ -2,13 +2,13 @@
 
 ## Primitive Data Types
 
-+**String**: Sequence of character. must be in quotes or backticks.
-+**Number**: Integers as well as afloating-point numbers.
-+**Boolean**: Logical entity / true and false.
-+**Null**: Intentional absence of any object value.
-+**Undefined**: aAvariable that has not yet been defined / assigned.
-+**Symbol**: Built-in object whose constructor returns a unique symbol.
-+**BigInt**: Numbers that are greater than the "Number" type can handle.
++ **String**: Sequence of character. must be in quotes or backticks.
++ **Number**: Integers as well as afloating-point numbers.
++ **Boolean**: Logical entity / true and false.
++ **Null**: Intentional absence of any object value.
++ **Undefined**: Avariable that has not yet been defined / assigned.
++ **Symbol**: Built-in object whose constructor returns a unique symbol.
++ **BigInt**: Numbers that are greater than the "Number" type can handle.
 
 ## References Types (Objects)
 
