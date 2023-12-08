@@ -1,0 +1,18 @@
+// pvalues are stored on the stack
+const name = "John";
+const age = 40;
+
+// reference values are stored on the heap
+const person = {
+  name: "Brad",
+  age: 35,
+};
+
+let newName = name;
+newName = "Jonathan";
+
+let newPerson = person;
+newPerson.name = "Bradley";
+
+console.log(name, newName);
+console.log(person, newPerson);
